@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ahmad
+# Hi there 👋, I'm kazle
 
 I'm a high school student based in Jakarta, a hardware tinkerer, and the soon-to-be former Vice Chairman of my class representative board. I love bridging the gap between software and the physical world by building cool, tangible side projects from scratch. 
 
