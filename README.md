@@ -27,5 +27,5 @@ High school student, hardware tinkerer, and former class representative vice-cha
 ### About Me
 * **Interests:** Furry community and learning German (planning to study in Germany after graduation).
 * **Reading:** *Out of Position* by Kyell Gold, *Beastars*, plus other novels, comics, and manga.
-* **Gaming:** Minecraft, Ghost Recon Wildlands, Resident Evil 4 & 8, Elden Ring, MGSV, War Thunder, and Roblox.
+* **Gaming:** Minecraft, Ghost Recon Wildlands, Resident Evil, The Witcher 3, CS 2, MGSV, War Thunder, and Roblox.
 * **Pets:** 3 cats.
