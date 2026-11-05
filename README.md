@@ -17,5 +17,5 @@ My main goal for the next year is to design and build my own custom hardware. Ri
 
 ### ⚡ Fun Facts
 * 🐾 Proud member of the furry community.
-* 🇩🇪 I'm currently keeping my Duolingo streak alive to learn German! My plan is to continue my studies in Germany after I graduate high school.
+* 🇩🇪  I'm currently keeping my Duolingo streak alive to learn German! My plan is to continue my studies in Germany after I graduate high school.
 * 🎮 When I'm not coding or dealing with school council duties, you can usually find me grinding in War Thunder, messing around on Roblox, or clearing out my Steam backlog.
